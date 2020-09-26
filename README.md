@@ -2,7 +2,7 @@
 Nous considérons un système d’information composé deux entités Cours, Semestre.
 Nous considérons qu’un cours est donné par un nom et une description. Chaque cours est associé
 à un unique semestre. Notre entité Semestre a deux attributs : nom de la formation et nom du semestre.
-Cet entraînement permet une manipulations des relations entre différentes Entités ( OneToMany, ManyToOne, OneToOne, ManyToMany) 
+Cet entraînement permet une manipulation des relations entre différentes Entités ( OneToMany, ManyToOne, OneToOne, ManyToMany) 
 Pour avoir le format Markdown:
 -installer avec le composer notre Markdown avec la commande :
 composer require cebe/markdown
